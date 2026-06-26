@@ -107,14 +107,6 @@ Ao final deste projeto foi possível:
 
 ---
 
-## 📚 Referências
-
-As principais referências utilizadas encontram-se no arquivo:
-
-➡️ **[Fontes Utilizadas](docs/05-Fontes.md)**
-
----
-
 ## 👨‍💻 Autor
 
 **Lucas Mafra**
