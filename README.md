@@ -45,6 +45,16 @@ Este repositório reúne um **Caderno Temático** produzido no NotebookLM, conso
 
 Este projeto demonstra como a Inteligência Artificial pode ser utilizada não apenas para fortalecer a segurança de sistemas, mas também como uma ferramenta poderosa para potencializar o aprendizado e a organização do conhecimento técnico.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+README.md
+│
+docs/
+├── 01-Resumo.md
+├── 02-Glossario.md
+├── 03-Engenharia-de-Prompts.md
+├── 04-Conjunto-de-Prompts.md
+└── 05-Fontes.md
+
 ---
 
 ⭐ Caso este projeto seja útil para você, considere deixar uma estrela no repositório!
